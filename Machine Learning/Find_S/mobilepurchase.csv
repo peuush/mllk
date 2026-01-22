@@ -1,0 +1,7 @@
+Brand,PriceRange,Camera,Battery,Buy
+Premium,High,Excellent,Long,Yes
+Premium,High,Good,Long,Yes
+Mid,Medium,Good,Long,Yes
+Budget,Low,Average,Short,No
+Budget,Low,Poor,Short,No
+Mid,Low,Average,Short,No
